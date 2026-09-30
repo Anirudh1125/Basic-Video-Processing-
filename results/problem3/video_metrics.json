@@ -1,0 +1,14 @@
+{
+  "input_frames": 120,
+  "difference_frames": 119,
+  "fps": 24,
+  "width": 320,
+  "height": 240,
+  "ffv1_exact_rgb_verified": true,
+  "file_sizes_bytes": {
+    "difference_msmpeg4v2.avi": 499748,
+    "original_ffv1.avi": 4068792,
+    "original_msmpeg4v2.avi": 578072,
+    "difference_ffv1.avi": 3588626
+  }
+}

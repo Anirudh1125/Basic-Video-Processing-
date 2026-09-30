@@ -1,0 +1,82 @@
+{
+  "problem1": {
+    "median": {
+      "min": 0.0,
+      "max": 238.0
+    },
+    "gaussian3": {
+      "min": 21.6875,
+      "max": 233.875
+    },
+    "gaussian5": {
+      "min": 20.659340659340657,
+      "max": 231.22710622710622
+    },
+    "roberts_x": {
+      "min": -175.0,
+      "max": 126.0
+    },
+    "roberts_y": {
+      "min": -220.0,
+      "max": 110.0
+    },
+    "roberts_magnitude": {
+      "min": 0.0,
+      "max": 229.1025971044414
+    },
+    "prewitt_x": {
+      "min": -518.0,
+      "max": 643.0
+    },
+    "prewitt_y": {
+      "min": -655.0,
+      "max": 633.0
+    },
+    "prewitt_magnitude": {
+      "min": 0.0,
+      "max": 655.0274803395656
+    },
+    "sobel_x": {
+      "min": -692.0,
+      "max": 859.0
+    },
+    "sobel_y": {
+      "min": -873.0,
+      "max": 845.0
+    },
+    "sobel_magnitude": {
+      "min": 0.0,
+      "max": 873.0463905199998
+    },
+    "laplacian": {
+      "min": -324.0,
+      "max": 182.0
+    },
+    "dog": {
+      "min": -20.199862637362656,
+      "max": 16.801510989010993
+    }
+  },
+  "problem4": {
+    "max_reconstruction_error": 0.0,
+    "mean_absolute_error": 0.0,
+    "equal_pixels": 262144,
+    "total_pixels": 262144,
+    "Apix": 123.6077995300293,
+    "levels": 9
+  },
+  "problem3": {
+    "input_frames": 120,
+    "difference_frames": 119,
+    "fps": 24,
+    "width": 320,
+    "height": 240,
+    "ffv1_exact_rgb_verified": true,
+    "file_sizes_bytes": {
+      "difference_msmpeg4v2.avi": 499748,
+      "original_ffv1.avi": 4068792,
+      "original_msmpeg4v2.avi": 578072,
+      "difference_ffv1.avi": 3588626
+    }
+  }
+}
